@@ -1,6 +1,5 @@
 ### Привет, я Надежда <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260">
 
 <p><em>Аналитик данных / бизнес-аналитик. Бизнес-информатика в НИТУ МИСИС, сейчас в магистратуре РУДН «Анализ больших данных».</em></p>
 
@@ -8,6 +7,8 @@
 - 🛒 Прошла стажировку X5 Business Camp в X5 Media: конкурентный анализ, 40 конкурентов
 - 🤖 Поступила на программу «ИИ-инженер» Школы 21 в кампусе РУДН (с ноября 2026), собираю ИИ-агентов на LangGraph и n8n
 - 🎯 Ищу стажировку или позицию junior-аналитика
+
+<p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"></p>
 
 ### Немного подробнее
 
