@@ -40,7 +40,7 @@ nadia = {
 | 💰 [Классификация уровня дохода](https://github.com/fnadiaser/income-classification) | EDA и сравнение 4 моделей, лучшая - Random Forest, accuracy 0,847 | pandas, scikit-learn |
 | 🌍 [Температура поверхности Земли](https://github.com/fnadiaser/earth-temperature-analysis) | Очистка и анализ временных рядов, 800+ тыс. наблюдений | pandas, Seaborn |
 | 📈 [Эконометрика рынка e-commerce](https://github.com/fnadiaser/ecommerce-econometrics) | Множественная регрессия, проверка предпосылок МНК, 2006-2023 | Excel |
-| 🤖 [ИИ-агент для резюме](https://github.com/fnadiaser/resume-agent-bot) | Telegram-бот пишет резюме под вакансию hh.ru (команда из 4 человек) | LangGraph, GigaChat |
+| 🤖 [ИИ-агент для резюме](https://github.com/fnadiaser/resume-agent) | Агент на GigaChat пишет резюме под вакансию hh.ru (мой модуль командного проекта) | LangChain, GigaChat, pydantic |
 | 📚 [RAG-помощник по планированию](https://github.com/fnadiaser/rag-telegram-bot-n8n) | Бот отвечает по регламентам со ссылками на источники (ВКР) | n8n, OpenAI API |
 
 ### Связаться
